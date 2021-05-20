@@ -9,3 +9,5 @@ It will walk though
   - Build RNN (LSTM) model
   - Train RNN model with Tokenized Text data
   - Predict Text 
+
+It will require numpy, pandas, sklearn, keras, gensim
