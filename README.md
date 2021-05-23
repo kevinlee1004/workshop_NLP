@@ -10,4 +10,7 @@ It will walk though
   - Train RNN model with Tokenized Text data
   - Predict Text 
 
-It will require numpy, pandas, sklearn, keras, gensim
+It will require below packages
+numpy 1.19.5
+keras 2.4.3
+gensim 4.0.1
