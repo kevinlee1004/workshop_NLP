@@ -11,6 +11,9 @@ It will walk though
   - Predict Text 
 
 It will require below packages
-numpy 1.19.5
-keras 2.4.3
-gensim 4.0.1
+- numpy 1.20.1
+- keras 2.6.0
+- gensim 4.1.2
+- tensorflow 2.6.0
+
+
